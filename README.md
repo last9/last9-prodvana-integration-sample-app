@@ -19,4 +19,4 @@ pvnctl configs apply my-service.pvn.yaml
 ```
 
 - Refer to [Prodvana docs](https://docs.prodvana.io/docs/) for more details.
-- You can send deployment change events from Prodvana to Levitate. Refer to the doc [here](https://docs.prodvana.io/docs/last9).
+- You can send deployment change events from Prodvana to Last9. Refer to the doc [here](https://docs.prodvana.io/docs/last9).

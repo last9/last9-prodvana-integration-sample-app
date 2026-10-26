@@ -13,7 +13,7 @@ application:
     - manualApproval: {}
   annotations:
     last9:
-      # you can find this in your Levitate dashboard at:
+      # you can find this in your Last9 dashboard at:
       # https://app.last9.io/v2/organizations/<org-slug>/datasources
-      data_source: <levitate_data_source_name>
+      data_source: <last9_data_source_name>
 # ...
